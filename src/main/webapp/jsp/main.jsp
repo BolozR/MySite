@@ -12,10 +12,8 @@
 <img src="${pageContext.request.contextPath}/image/Me.jpg" alt="Me" style="width:10%">
 
 <div class="w3-container">
-    <p>Это небольшой сайт-визитка написанный с помощью Java Servlet, JSP и Maven. Данный сайт использует стиль w3.css.
-    </p>
-    <p>Всякая ерунда...
-    </p>
+    <p>Это небольшой сайт-визитка написанный с помощью Java Servlet, JSP и Maven.</p>
+    <p>Текст...</p>
 </div>
 
 <footer class="w3-container w3-teal">

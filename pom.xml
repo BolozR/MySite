@@ -37,6 +37,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>bolozovskii</finalName>
     </build>
 
 </project>
