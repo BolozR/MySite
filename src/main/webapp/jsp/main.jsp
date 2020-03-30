@@ -9,7 +9,7 @@
     <h1>Болозовский Роман Ростиславович</h1>
 </header>
 
-<img src="${pageContext.request.contextPath}/image/Me.jpg" alt="Me" style="width:10%">
+<img src="${pageContext.request.contextPath}/image/Me.jpg" style="width: 10%">
 
 <div class="w3-container">
     <p>Это небольшой сайт-визитка написанный с помощью Java Servlet, JSP и Maven.</p>
